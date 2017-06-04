@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
     <div class="jumbotron jumbotron-fluid">
-        <video class="landing-video" autoplay muted loop poster="/wp-content/themes/academlyc/img/log-bg.jpg?v=09012016">
+        <video class="landing-video" autoplay muted loop>
             <source src="/wp-content/themes/academlyc/media/landing.mp4?v=28022017" type="video/mp4">
         </video>
         <div class="container">
@@ -12,10 +12,18 @@
             </div>
         </div>
     </div>
-    <script src="https://cdn.rawgit.com/mattboldt/typed.js/master/dist/typed.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="https://cdn.rawgit.com/mattboldt/typed.js/master/dist/typed.min.js"></script>
     <script>
-        $(function(){
-            $('.landing-org-name').typed({
+        // $(function(){
+        //     $('.landing-org-name').typed({
+        //         strings: ['<h1>Запорізький<br>Академічний ліцей</h1>'],
+        //         typeSpeed: 0,
+        //         showCursor: false,
+        //         contentType: 'html'
+        //     });
+        // });
+        document.addEventListener("DOMContentLoaded", function(){
+            Typed.new('.landing-org-name', {
                 strings: ['<h1>Запорізький<br>Академічний ліцей</h1>'],
                 typeSpeed: 0,
                 showCursor: false,

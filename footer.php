@@ -2,32 +2,32 @@
     <div class="footer-social">
         <div class="container">
             <ul class="social-list row">
-                <li class="col-sm-2 col-xs-4">
+                <li class="col-sm-2 col-4">
                     <a class="social-instagram" href="https://www.instagram.com/academlyceum/" target="_blank">
                         <span class="social-icon"><i class="fa fa-instagram fa-2x"></i></span>
                     </a>
                 </li>
-                <li class="col-sm-2 col-xs-4">
+                <li class="col-sm-2 col-4">
                     <a class="social-facebook" href="https://www.facebook.com/profile.php?id=100010918840318" target="_blank">
                         <span class="social-icon"><i class="fa fa-facebook fa-2x"></i></span>
                     </a>
                 </li>
-                <li class="col-sm-2 col-xs-4">
+                <li class="col-sm-2 col-4">
                     <a class="social-vk" href="https://vk.com/club111992555" target="_blank">
                         <span class="social-icon"><i class="fa fa-vk fa-2x"></i></span>
                     </a>
                 </li>
-                <li class="col-sm-2 col-xs-4">
+                <li class="col-sm-2 col-4">
                     <a class="social-twitter" href="https://twitter.com/academlyceum" target="_blank">
                         <span class="social-icon"><i class="fa fa-twitter fa-2x"></i></span>
                     </a>
                 </li>
-                <li class="col-sm-2 col-xs-4">
+                <li class="col-sm-2 col-4">
                     <a class="social-google-plus" href="https://plus.google.com/u/0/102133778924696442593" target="_blank">
                         <span class="social-icon"><i class="fa fa-google-plus fa-2x"></i></span>
                     </a>
                 </li>
-                <li class="col-sm-2 col-xs-4">
+                <li class="col-sm-2 col-4">
                     <a class="social-youtube" href="https://www.youtube.com/channel/UCQm33S1tdLPMIo4VweUbcAw" target="_blank">
                         <span class="social-icon"><i class="fa fa-youtube-play fa-2x"></i></span>
                     </a>
@@ -51,7 +51,6 @@
                         <li><a href="https://moodle.academlyceum.zp.ua">Moodle</a></li>
                         <li><a href="http://mail.google.com/a/academlyceum.zp.ua">Google Apps</a></li>
                         <li><a href="/contacts">Знайти нас</a></li>
-                        <li><a href="#">Пошук</a></li>
                         <li><a href="/sitemap.xml">Мапа сайту</a></li>
                     </ul>
                 </div>

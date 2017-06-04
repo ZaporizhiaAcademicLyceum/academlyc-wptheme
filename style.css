@@ -400,7 +400,7 @@ body {
     text-align: right;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 575px) {
     .footer-end .nav-col {
         text-align: center;
         letter-spacing: 2px;

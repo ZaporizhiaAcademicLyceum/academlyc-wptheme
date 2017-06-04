@@ -38,7 +38,7 @@
     <div class="footer-end">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 hidden-xs contacts-col">
+                <div class="col-sm-6 hidden-xs-down contacts-col">
                     <div class="contacts">
                         <h3>Наші контакти</h3>
                         <p>м. Запоріжжя, вул. Гоголя, 155</p>

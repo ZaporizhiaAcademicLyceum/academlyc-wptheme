@@ -43,11 +43,17 @@ html, body {
 
 body {
     background: #ccc;
-    padding-top: 56px;
+    padding-top: 54px;
+}
+
+@media (max-width: 575px) {
+    .navbar .container {
+      width: 100%;
+    }
 }
 
 #wpadminbar {
-    top: 56px;
+    top: 54px;
 }
 
 .content-gutter {
@@ -143,7 +149,8 @@ body {
     display: block;
     width: 60%;
     margin: 0 auto;
-    transition: all 0.5s linear;
+    transition: transform 0.5s ease-out;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
 }
 
 .landing-card:hover img {
@@ -416,7 +423,7 @@ body {
 
 .footer-end .copyright {
     text-align: center;
-    margin-bottom: 4px;
+    margin: 8px 0 0 0;
 }
 
 .footer-end .design-by {
@@ -497,7 +504,7 @@ body {
     *background: transparent;
     position: relative;
     overflow: hidden;
-    background-position: 0 56px;
+    background-position: 0 54px;
 }
 
 /* ============= END LANDING VIDEO ========== */

@@ -30,7 +30,10 @@
     <?php if (is_singular() && pings_open(get_queried_object())): ?>
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
     <?php endif; ?>
-    <script type="application/javascript" src="/wp-content/themes/academlyc/js/jquery-2.2.2.min.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/academlyc/js/jquery-2.2.2.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/tether/1.4.0/tether.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
     <?php wp_head(); ?>
 </head>
 

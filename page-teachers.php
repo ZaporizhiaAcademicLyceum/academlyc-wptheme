@@ -13,7 +13,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/brishten.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Бріштен Г.В.</p>
+                    <p class="card-text text-center">Бріштен Г.В.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -21,7 +22,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/drozdova.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Дроздова Ю.О.</p>
+                    <p class="card-text text-center">Дроздова Ю.О.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -39,7 +41,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/kobzar.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Кобзар Л.В.</p>
+                    <p class="card-text text-center">Кобзар Л.В.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -49,7 +52,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/derkach.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Деркач І.О.</p>
+                    <p class="card-text text-center">Деркач І.О.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -58,7 +62,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/lasinska.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Ласинська І.М.
-                      <a href="http://newbiohimik.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://q63405yv.beget.tech/visitivka/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -68,7 +72,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/levitina.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Левітіна М.О.
-                      <a href="http://marialevitina.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://n637190s.beget.tech/Maria-Levitina/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -77,7 +81,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/kylikovskiy.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Куликовський М.Б.</p>
+                    <p class="card-text text-center">Куликовський М.Б.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -88,7 +93,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/minakova.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Мінакова Н.В.
-                      <a href="http://nataliasvitova.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://v634411b.beget.tech/Vizitka/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -98,7 +103,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/rudenko.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Руденко О.С.
-                      <a href="http://27rudenko2.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://rudenko.zzz.com.ua/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -108,7 +113,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/ryazanova.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Рязанова О.С.
-                      <a href="http://hzpfyjdf1972.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://z68450r7.beget.tech/Vizitivka/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -117,7 +122,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/tur.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Тур В.О.</p>
+                    <p class="card-text text-center">Тур В.О.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -128,7 +134,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/khrapal.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Храпаль Л.В.
-                      <a href="http://larisa000.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://h93397vf.beget.tech/Larysa-Khrapal/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -137,7 +143,9 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/taran.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Таран І.А.</p>
+                    <p class="card-text text-center">Таран І.А.
+                      <a href="http://taran.zzz.com.ua/" alt="Блог"><i class="fa fa-globe"></i></a>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -145,7 +153,9 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/luka.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Лука К.М.</p>
+                    <p class="card-text text-center">Лука К.М.
+                      <a href="http://visitivka.kseniyaluka.kl.com.ua/" alt="Блог"><i class="fa fa-globe"></i></a>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -153,7 +163,8 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/popova.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Попова В.А.</p>
+                    <p class="card-text text-center">Попова В.А.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -164,7 +175,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/tarhova.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Тархова І.О.
-                      <a href="http://ehjrvfntvfnbrb.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://l6845104.beget.tech/visitivka/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -174,7 +185,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/galas.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Галас С.В.
-                      <a href="http://galas-english-blog.blogspot.com/" alt="Блог"><i class="fa fa-globe"></i></a>
+                      <a href="http://f962325u.beget.tech/Svitlana-Galas/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -209,7 +220,9 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/kondratenko.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Кондратенко Я.Ю.</p>
+                    <p class="card-text text-center">Кондратенко Я.Ю.
+                      <a href="http://x67588dy.beget.tech/visitka/" alt="Блог"><i class="fa fa-globe"></i></a>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -217,7 +230,9 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/pryhodchenko.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Приходченко К.Л.</p>
+                    <p class="card-text text-center">Приходченко К.Л.
+                      <a href="http://g96619ru.beget.tech/" alt="Блог"><i class="fa fa-globe"></i></a>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -235,7 +250,9 @@
                 <div class="card card-teacher">
                   <img src="/wp-content/themes/academlyc/img/teachers/horb.png?v=160920171052" class="img-fluid card-img-top">
                   <div class="card-block">
-                    <p class="card-text text-center">Горб Н.В.</p>
+                    <p class="card-text text-center">Горб Н.В.
+                      <a href="http://v63549u9.beget.tech/visitka/" alt="Блог"><i class="fa fa-globe"></i></a>
+                    </p>
                   </div>
                 </div>
               </div>

@@ -53,6 +53,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/derkach.png?v=250920172211" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Деркач І.О.
+                      <a href="http://c673036t.beget.tech/derkach/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -123,6 +124,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/tur.png?v=250920172211" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Тур В.О.
+                      <a href="http://u99489gj.beget.tech/Victoriia-Tur/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -164,6 +166,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/popova.png?v=250920172211" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Попова В.А.
+                      <a href="http://f50779pt.beget.tech/visitivka/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -294,6 +297,15 @@
                   <div class="card-block">
                     <p class="card-text text-center">Шагарова В.П.
                       <a href="http://a9955117.beget.tech/" alt="Блог"><i class="fa fa-globe"></i></a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-3 col-xs-6">
+                <div class="card card-teacher">
+                  <img src="/wp-content/themes/academlyc/img/teachers/otrishko.png?v=250920172211" class="img-fluid card-img-top">
+                  <div class="card-block">
+                    <p class="card-text text-center">Отрішко О.О.
                     </p>
                   </div>
                 </div>

@@ -14,6 +14,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/brishten.png?v=250920172211" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Бріштен Г.В.
+                      <a href="http://visitivka.brishten.zzz.com.ua/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>
@@ -42,6 +43,7 @@
                   <img src="/wp-content/themes/academlyc/img/teachers/kobzar.png?v=250920172211" class="img-fluid card-img-top">
                   <div class="card-block">
                     <p class="card-text text-center">Кобзар Л.В.
+                      <a href="http://l9557269.beget.tech/visitka/" alt="Блог"><i class="fa fa-globe"></i></a>
                     </p>
                   </div>
                 </div>

@@ -92,7 +92,7 @@ function academlyc_scripts()
     wp_enqueue_style('font-awesome', get_template_directory_uri() . '/css/font-awesome.min.css');
 
     // Theme stylesheet.
-    wp_enqueue_style('academlyc-style?v=07062016', get_stylesheet_uri());
+    wp_enqueue_style('academlyc-style?v=21102017', get_template_directory_uri() . '/style.min.css');
 }
 
 add_action('wp_enqueue_scripts', 'academlyc_scripts');

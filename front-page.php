@@ -12,22 +12,14 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="https://cdn.rawgit.com/mattboldt/typed.js/master/dist/typed.min.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/academlyc/assets/js/vendor/typed.min.js"></script>
     <script>
-        // $(function(){
-        //     $('.landing-org-name').typed({
-        //         strings: ['<h1>Запорізький<br>Академічний ліцей</h1>'],
-        //         typeSpeed: 0,
-        //         showCursor: false,
-        //         contentType: 'html'
-        //     });
-        // });
         document.addEventListener("DOMContentLoaded", function(){
-            Typed.new('.landing-org-name', {
+            new Typed('.landing-org-name', {
                 strings: ['<h1>Запорізький<br>Академічний ліцей</h1>'],
-                typeSpeed: 0,
+                typeSpeed: 25,
                 showCursor: false,
-                contentType: 'html'
+                contentType: 'html',
             });
         });
         $(".landing-video").on('loadeddata', function () {

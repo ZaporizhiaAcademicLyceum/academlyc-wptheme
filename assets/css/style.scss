@@ -13,6 +13,7 @@ Text Domain: test
 
 @import "partials/contacts";
 @import "partials/mixins";
+@import "partials/teacher";
 
 @font-face {
   font-family: 'PFSquareSansPro-ExtraBlackItalic';
@@ -266,6 +267,7 @@ body {
 }
 
 .card-teacher {
+  position: relative;
   margin-bottom: 16px;
 }
 

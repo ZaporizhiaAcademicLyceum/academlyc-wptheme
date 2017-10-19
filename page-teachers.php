@@ -114,6 +114,13 @@ $teachers = [
     'facebook' => '',
   ],
   [
+    'name' => 'Крат Михайло Анатолійович',
+    'desc' => 'Вчитель фізики',
+    'image' => 'krat.png',
+    'blog' => '',
+    'facebook' => '',
+  ],
+  [
     'name' => 'Тархова Інна Олегівна',
     'desc' => 'Вчитель математики',
     'image' => 'tarhova.png',
@@ -194,7 +201,7 @@ $teachers = [
     'name' => 'Говоруха Ірина Вікторівна',
     'desc' => 'Вчитель початкових класів',
     'image' => 'govoruha.png',
-    'blog' => '',
+    'blog' => 'http://govorukha-iv.zzz.com.ua/',
     'facebook' => '',
   ],
   [

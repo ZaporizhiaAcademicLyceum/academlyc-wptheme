@@ -64,6 +64,25 @@
         </div>
     </div>
 </footer>
+
+<button class="helpbot">
+    <img class="helpbot__icon" alt="Допомога" src="/wp-content/themes/academlyc/img/icon_helpdesk.png">
+    <div class="helpbot__text">Допомогти?</div>
+</button>
+
+<div class="chat-widget">
+    <iframe width="100%" height="430" 
+        src="https://console.dialogflow.com/api-client/demo/embedded/acalyc">
+    </iframe>
+</div>
+
+<script>
+    $('.helpbot').click(function () {
+        $(this).toggle('is-active');
+        $('.chat-widget').toggle('is-active');
+    });
+</script>
+
 <?php wp_footer(); ?>
 </body>
 </html>

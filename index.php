@@ -22,4 +22,4 @@
         wp_bs_pagination(); ?>
     </div>
 
-<?php get_footer(); ?>
+<?php get_footer();
